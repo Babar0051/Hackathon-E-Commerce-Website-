@@ -1,7 +1,7 @@
 // "use client" directive to ensure this component can use client-side functionality
 "use client"; 
 
-import Image from "next/image"; 
+// import Image from "next/image"; 
 
 const FeaturesSection = () => { 
   return ( 
